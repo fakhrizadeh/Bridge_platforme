@@ -138,7 +138,7 @@ img { display: block; max-width: 100%; }
 .chart-visible .chart-points circle:nth-child(2) { transition-delay: .15s; }
 .chart-visible .chart-points circle:nth-child(3) { transition-delay: .3s; }
 .chart-visible .chart-points circle:nth-child(4) { transition-delay: .45s; }
-.chart-months { display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; }
+.chart-months { display: flex; justify-content: space-between; direction: ltr; color: var(--muted); font-size: 11px; }
 .donut-wrap { position: relative; width: min(220px, 72%); margin: 24px auto 18px; }
 .donut { display: block; width: 100%; transform: rotate(-90deg); }
 .donut circle { fill: none; stroke-width: 15; }
