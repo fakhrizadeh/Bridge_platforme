@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">نمای آزمایشی مدیریت مشتریان بریج</title>
+  <desc id="desc">موکاپ فارسی CRM با داده‌های کاملاً آزمایشی</desc>
+  <defs>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-opacity=".07"/></filter>
+    <style>
+      .t{font-family:Tahoma,Arial,sans-serif;fill:#18191c}.m{fill:#737783}.sm{font-size:15px}.md{font-size:18px}.lg{font-size:22px;font-weight:700}.b{font-weight:700}.line{stroke:#e9eaee}.card{fill:#fff;stroke:#e2e3e8}.pill{fill:#f5f5f7}.accent{fill:#ff6b16}
+    </style>
+  </defs>
+  <rect width="1600" height="820" fill="#f7f7f8"/>
+  <rect x="0" y="0" width="1600" height="72" fill="#fff"/>
+  <line x1="0" y1="72" x2="1600" y2="72" class="line"/>
+  <rect x="1530" y="15" width="42" height="42" rx="12" fill="#202126"/><path d="M1543 44h9V28h8v7h-8" fill="none" stroke="#fff" stroke-width="3"/>
+  <text x="1506" y="42" text-anchor="end" class="t md b">بریج / نرم‌افزار فروش</text>
+  <rect x="500" y="16" width="520" height="40" rx="12" class="card"/>
+  <text x="760" y="42" text-anchor="middle" class="m sm">جست‌وجو و دسترسی سریع به همه داده‌ها ...</text>
+  <circle cx="77" cy="36" r="18" fill="#f4f4f6"/><path d="M69 42c2-7 14-7 16 0M77 33a4 4 0 1 0 0-8 4 4 0 0 0 0 8" fill="none" stroke="#202126" stroke-width="2"/>
+  <rect x="1138" y="92" width="400" height="696" rx="22" class="card" filter="url(#s)"/>
+  <text x="1494" y="138" text-anchor="end" class="t lg">مشتریان</text>
+  <rect x="1172" y="110" width="140" height="46" rx="12" fill="#202126"/><text x="1242" y="140" text-anchor="middle" fill="#fff" class="md b">+ مشتری جدید</text>
+  <rect x="1172" y="178" width="332" height="44" rx="12" class="card"/><text x="1338" y="206" text-anchor="middle" class="m sm">جست‌وجوی نام یا شماره میان مشتریان من</text>
+  <text x="1478" y="258" text-anchor="end" class="t md b">کارهای من</text><text x="1365" y="258" text-anchor="end" class="m sm">مشتریان من</text><text x="1240" y="258" text-anchor="end" class="m sm">یادآوری‌های من</text>
+  <rect x="1394" y="273" width="110" height="4" rx="2" class="accent"/>
+  <rect x="1160" y="278" width="366" height="72" fill="#fafafa"/><text x="1492" y="312" text-anchor="end" class="t sm b">کارهای امروز شما بر اساس اولویت فروش مرتب شده‌اند.</text><text x="1492" y="336" text-anchor="end" class="m sm">نمایش همه مشتریان</text>
+  <g class="t">
+    <g transform="translate(1175 374)"><circle cx="298" cy="32" r="26" fill="#f0f1f3"/><circle cx="298" cy="27" r="7" fill="#24252a"/><path d="M286 45c3-12 21-12 24 0" fill="#24252a"/><text x="255" y="26" text-anchor="end" class="md b">کاربر آزمایشی ۱</text><text x="255" y="51" text-anchor="end" class="m sm">۰۹۱۲•••۱۲۳۴</text><text x="255" y="78" text-anchor="end" class="m sm">امروز · پیگیری اولیه</text></g>
+    <line x1="1172" y1="470" x2="1504" y2="470" class="line"/>
+    <g transform="translate(1175 484)"><circle cx="298" cy="32" r="26" fill="#f0f1f3"/><circle cx="298" cy="27" r="7" fill="#24252a"/><path d="M286 45c3-12 21-12 24 0" fill="#24252a"/><text x="255" y="26" text-anchor="end" class="md b">کاربر آزمایشی ۲</text><text x="255" y="51" text-anchor="end" class="m sm">۰۹۱۹•••۵۶۷۸</text><text x="255" y="78" text-anchor="end" class="m sm">دیروز · تماس فروش</text></g>
+    <line x1="1172" y1="580" x2="1504" y2="580" class="line"/>
+    <g transform="translate(1175 594)"><circle cx="298" cy="32" r="26" fill="#f0f1f3"/><circle cx="298" cy="27" r="7" fill="#24252a"/><path d="M286 45c3-12 21-12 24 0" fill="#24252a"/><text x="255" y="26" text-anchor="end" class="md b">کاربر آزمایشی ۳</text><text x="255" y="51" text-anchor="end" class="m sm">۰۹۳۵•••۹۰۱۲</text><text x="255" y="78" text-anchor="end" class="m sm">۲ روز پیش · ارسال پیشنهاد</text></g>
+  </g>
+  <rect x="28" y="92" width="1088" height="696" rx="22" class="card"/>
+  <g transform="translate(340 250)"><circle cx="205" cy="95" r="62" fill="#fff3eb"/><path d="M170 107c20-52 51-52 71 0M205 79a22 22 0 1 0 0-44 22 22 0 0 0 0 44" fill="none" stroke="#ff6b16" stroke-width="10" stroke-linecap="round"/><text x="205" y="210" text-anchor="middle" class="t lg">برای شروع یک مشتری را انتخاب کنید</text><text x="205" y="244" text-anchor="middle" class="m md">همه اطلاعات و اقدام بعدی، در یک نمای روشن</text></g>
+  <rect x="30" y="720" width="62" height="62" rx="20" fill="#202126"/><path d="M47 743h28v21H55l-8 7z" fill="#fff"/>
+</svg>

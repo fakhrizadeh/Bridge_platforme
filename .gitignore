@@ -1,0 +1,7 @@
+# Source screenshots contain customer data and must never be published.
+assets/*.png
+
+# Local development noise
+node_modules/
+.DS_Store
+Thumbs.db
