@@ -1,22 +1,22 @@
 @font-face {
-  font-family: "IRANSansX";
-  src: url("assets/fonts/IRANSansXFaNum-Regular.woff2") format("woff2");
+  font-family: "BridgeIRANSansX";
+  src: url("assets/fonts/IRANSansXFaNum-Regular.woff2?v=2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "IRANSansX";
-  src: url("assets/fonts/IRANSansXFaNum-DemiBold.woff2") format("woff2");
+  font-family: "BridgeIRANSansX";
+  src: url("assets/fonts/IRANSansXFaNum-DemiBold.woff2?v=2") format("woff2");
   font-style: normal;
   font-weight: 600;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "IRANSansX";
-  src: url("assets/fonts/IRANSansXFaNum-ExtraBold.woff2") format("woff2");
+  font-family: "BridgeIRANSansX";
+  src: url("assets/fonts/IRANSansXFaNum-ExtraBold.woff2?v=2") format("woff2");
   font-style: normal;
   font-weight: 800;
   font-display: swap;
